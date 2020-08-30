@@ -1,6 +1,8 @@
 # 911
 911 Command with some cool features :).
 
+## Download
+
 ## Implementing the Script
 Install like any other FiveM resource.
 
