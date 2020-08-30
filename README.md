@@ -2,8 +2,7 @@
 911 Command with some cool features :).
 
 ## Download
-v2.0 is out now, go and download it
-https://github.com/ChezzaGB/911/releases/tag/v.2.0
+v2.0 is out now, go and download it [here](https://github.com/ChezzaGB/911/releases/tag/v.2.0).
 
 ## Implementing the Script
 Install like any other FiveM resource.
