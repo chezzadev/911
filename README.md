@@ -1,5 +1,5 @@
 # 911
-911 Command with a **Discord Webhook** feature.
+911 Command with some cool features :).
 
 ## Implementing the Script
 Install like any other FiveM resource.
