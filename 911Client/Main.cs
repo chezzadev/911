@@ -30,6 +30,11 @@ namespace _911
                     TriggerEvent("chatMessage", "You have a call currently active please wait.");
                 }
             }), false);
+
+            TriggerEvent("chat:addSuggestion", "/911", "Call for emergency services", new[]
+            {
+                new { name="Report", help="Enter your report here" }
+            });
         }
 
         public async void AddBlipToMap(Vector3 coords, string name, int timeout) 

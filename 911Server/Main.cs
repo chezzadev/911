@@ -14,7 +14,6 @@ namespace _911Server
         int timeout = 0;
         bool discord = false;
         string webhookurl = null;
-
         public Main()
         {
             LoadConfig();
