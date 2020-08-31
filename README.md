@@ -8,6 +8,7 @@ v2.0 is out now, go and download it [here](https://github.com/ChezzaGB/911/relea
 Install like any other FiveM resource.
 
 ## Configuration 
+#### config.ini
 ```ini 
 [Location & Blip]
 location=false ; Show's the user's current location in the 911 message and creates a blip on the map, toggle it on and off with true or false
